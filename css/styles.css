@@ -1,0 +1,11 @@
+h1,h2{
+    text-align: center;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+body{
+    background-image: url("https://fossbytes.com/wp-content/uploads/2018/03/best-programming-scripting-markup-languages.jpg");
+    /* background-image: url("https://www.collegechoice.net/wp-content/uploads/2018/04/Computer-Programming.jpg"); */
+    background-size: cover;
+    /* background-image: url("https://www.rasmussen.edu/-/media/images/blogs/school-of-technology/computerprogramminghard_banner.jpg?la=en&hash=1897D131AAF9AA952B206B04C44A4969E9D644D5") */
+}
