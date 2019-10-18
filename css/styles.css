@@ -1,14 +1,18 @@
+body{
+    
+    
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://panidigital.com/wp-content/uploads/2019/05/web-design.jpg");
+    /*background-image: url("https://previews.123rf.com/images/garrifrotto/garrifrotto1701/garrifrotto170100115/69399962-vector-abstract-background-with-the-words-idea-coding-programing.jpg"); */
+    /* background-image: url("https://fossbytes.com/wp-content/uploads/2018/03/best-programming-scripting-markup-languages.jpg"); */
+}
 h1,h2{
     text-align: center;
     color: aliceblue;
     font-family: sans-serif;
 }
-body{
-    background-image: url("https://fossbytes.com/wp-content/uploads/2018/03/best-programming-scripting-markup-languages.jpg");
-    /* background-image: url("https://www.collegechoice.net/wp-content/uploads/2018/04/Computer-Programming.jpg"); */
-    background-size: cover;
-    /* background-image: url("https://www.rasmussen.edu/-/media/images/blogs/school-of-technology/computerprogramminghard_banner.jpg?la=en&hash=1897D131AAF9AA952B206B04C44A4969E9D644D5") */
-}
+
 ul{
     float: right;
     margin-right: 27px;
@@ -19,4 +23,21 @@ ul li{
     margin-left: 10px;
     text-decoration: none;
     color: antiquewhite;
+    height: 50px;
+    width: 100px;
+}
+.navbar{
+    background: rgba(0, 0, 0, 0.808);
+    /* background: rgb(39, 136, 143); */
+    width: 100%;
+    overflow: auto;
+    align-content: center;
+    height: 70px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+#stephen{
+    border-radius: 100px;
 }
