@@ -9,3 +9,14 @@ body{
     background-size: cover;
     /* background-image: url("https://www.rasmussen.edu/-/media/images/blogs/school-of-technology/computerprogramminghard_banner.jpg?la=en&hash=1897D131AAF9AA952B206B04C44A4969E9D644D5") */
 }
+ul{
+    float: right;
+    margin-right: 27px;
+    list-style-type: none;
+}
+ul li{
+    float: left;
+    margin-left: 10px;
+    text-decoration: none;
+    color: antiquewhite;
+}
