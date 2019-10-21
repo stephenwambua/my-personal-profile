@@ -19,6 +19,13 @@ p{
     font-size: 20px;
     height: 20px;
 }
+ol{
+    text-align: right; 
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    height: 20px;
+}
 ul{
     float: right;
     margin-right: 27px;
@@ -52,6 +59,10 @@ a{
     padding-left: 50px;
     float: left;
 }
-/* .align_left div {
-    float: left;
-} */
+#projects{
+    text-align: right; 
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    height: 20px;
+}
