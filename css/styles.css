@@ -60,9 +60,33 @@ a{
     float: left;
 }
 #projects{
-    text-align: right; 
+    text-align: center; 
     color: white;
     font-family: sans-serif;
     font-size: 20px;
     height: 20px;
 }
+.align_right{
+    text-align: left;
+}
+li{
+    text-decoration: none;
+}
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 30;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  .left {
+    left: 0;
+    /* background-color: #111;  */
+  }
+  
+  .right {
+    right: 0;
+    /* background-color: red;  */
+  }

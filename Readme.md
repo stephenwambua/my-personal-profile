@@ -10,9 +10,7 @@
 { In case of bugs, questions concerns or ideas feel free to contact me via my email ngumbausteph@gmail.com or my phone number +254718659266}
 ### License
 *{This is an personal document that cannot be used anywhere else other than by the creater of the site .}*
-<<<<<<< HEAD
+### link to live site on GitHub Pages
+https://stephenwambua.github.io/my-personal-profile/
 Copyright (c) {2019} **{Stephen, Swiftnet}**
 =======
-Copyright (c) {2019} **{LStephen, Swiftnet}**
->>>>>>> master
-  
